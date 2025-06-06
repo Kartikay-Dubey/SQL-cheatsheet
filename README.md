@@ -5,19 +5,7 @@ A comprehensive web-based reference for SQL commands, functions, and examples. T
 ## 📚 Features
 
 - **Comprehensive SQL Command Coverage**
-  - DDL (Data Definition Language)
-  - DML (Data Manipulation Language)
-  - DQL (Data Query Language)
-  - DCL (Data Control Language)
-  - TCL (Transaction Control Language)
-
 - **Built-in Functions Reference**
-  - String Functions
-  - Numeric Functions
-  - Date/Time Functions
-  - Conditional Functions
-  - Aggregate Functions
-
 - **Interactive Examples**
   - Clear syntax examples
   - Real-world use cases
@@ -39,9 +27,9 @@ A comprehensive web-based reference for SQL commands, functions, and examples. T
 
 Here are a few screenshots showcasing the UI and features of the Offline Music Player:
 
-| Commands | Example |
+| Commands | Examples |
 |-------------|--------|
-| ![Home](![image](https://github.com/user-attachments/assets/ca7d9262-76f0-4a1d-81f1-00ff0218b23a)) | ![Example](![image](https://github.com/user-attachments/assets/4bc715c2-4d99-4f0b-9841-6def68410a08)) |
+| ![Home](https://github.com/user-attachments/assets/ca7d9262-76f0-4a1d-81f1-00ff0218b23a)) | ![Example](https://github.com/user-attachments/assets/4bc715c2-4d99-4f0b-9841-6def68410a08)) |
 
 
 ## 🌟 Features
